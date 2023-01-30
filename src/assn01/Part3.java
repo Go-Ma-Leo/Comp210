@@ -1,7 +1,7 @@
 package assn01;
 
 public class Part3 {
-    public static void main(String args[]){
+    public static void main(String[] args){
         short sh = 32767;
         method2();
 
