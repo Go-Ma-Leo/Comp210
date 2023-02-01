@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2568b480-7bd1-4640-8ab6-0916e3568054" name="Changes" comment="hw">
-      <change afterPath="$PROJECT_DIR$/src/assn02/JavaWarmUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_22_2023_12_44_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_22_2023_12_44_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assn01/Part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assn01/Part3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assn02/JavaWarmUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assn02/JavaWarmUp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
